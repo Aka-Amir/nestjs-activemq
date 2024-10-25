@@ -1,7 +1,8 @@
 {
   "name": "@fingercoder/nestjs-activemq",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
+  "homepage": "https://github.com/Aka-Amir/nestjs-activemq",
   "author": "Amirkhalili",
   "contributes": {},
   "private": false,

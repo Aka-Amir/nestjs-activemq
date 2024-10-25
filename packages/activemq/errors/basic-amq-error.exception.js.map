@@ -1,1 +1,0 @@
-{"version":3,"file":"basic-amq-error.exception.js","sourceRoot":"","sources":["../../../libs/active-mq/src/activemq/errors/basic-amq-error.exception.ts"],"names":[],"mappings":";;;AAAA,yDAAqD;AAErD,MAAsB,iBAAkB,SAAQ,4BAAY;IAC1D,YACE,KAAsB,EACN,SAAiB;QAEjC,KAAK,CAAC,KAAK,CAAC,CAAC;QAFG,cAAS,GAAT,SAAS,CAAQ;IAGnC,CAAC;CACF;AAPD,8CAOC"}
